@@ -1,6 +1,6 @@
  
 <h2><strong>♦️ INSTALLATION LINK</strong></sp$</h2>
-<pre><code>apt --fix-missing update && apt update && apt upgrade -y && apt install -y bzip2 gzip coreutils screen dpkg wget vim curl nano zip unzip && wget -q https://raw.githubusercontent.com/Zeastore/asd/main/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh</code></pre>
+<pre><code>apt --fix-missing update && apt update && apt upgrade -y && apt install -y bzip2 gzip coreutils screen dpkg wget vim curl nano zip unzip && wget -q https://raw.githubusercontent.com/mza-xxdv/asd/main/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh</code></pre>
 
 <h2><strong>FIX MISSING INSTALL</strong></sp$</h2>
 <h2><strong>1. sellec menu no 22</h2>
